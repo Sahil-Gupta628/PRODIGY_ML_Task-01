@@ -48,6 +48,7 @@ The project will print out the predicted price of a new house given its features
 The linear regression model can be used to predict the price of a house in any location. However, the accuracy of the model will depend on the quality of the dataset that is used to train the model.
 
 The following are some of the factors that the linear regression model found to be most important in predicting the price of a house:
+
 The number of bedrooms
 The number of bathrooms
 The square footage of the house
