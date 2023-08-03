@@ -16,7 +16,7 @@ To run this project, you will need to install the dependencies listed above. Onc
 
 - Clone the GitHub repository.
 - Download the dataset file.
-- Open the PRODIGY_ML_01.ipynb file in a Python IDE.
+- Open the PRODIGY_ML_01.ipynb file in a Jupyter notebook.
 - Run the PRODIGY_ML_01.ipynb file.
 - The project will print out the predicted price of a new house given its features.
 
